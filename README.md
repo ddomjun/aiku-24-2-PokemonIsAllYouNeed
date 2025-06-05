@@ -60,5 +60,5 @@ Input: **피카츄가 싸운다.**
 ## 팀원
 - [이창엽](https://github.com/PROLCY): 팀장, 이미지 임베딩
 - [권도영](https://github.com/douyoung89): Pokemon Detection, 자막 정보 활용
-- [김민준](https://github.com/ddomjun): Pokemon  Detection, 자막 정보 활용
+- [김민준](https://github.com/ddomjun): Pokemon  Detection, 자막 정보 활용 
 - [박무근](https://github.com/MooGeunPark): 데이터셋 수집, 자막 정보 활용
